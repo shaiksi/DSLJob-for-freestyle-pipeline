@@ -1,2 +1,2 @@
-# DSLJob-for-freestyle-pipeline
-DSLJob for freestyle &amp; pipeline
+# JenkinsDSLJob-for-freestyle-pipeline
+JenkinsDSLJob for freestyle &amp; pipeline
